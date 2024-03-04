@@ -9,3 +9,5 @@ require './filters'
 pp @candidates
 
 pp experienced?(@candidates[0])
+pp find(7)
+# pp qualified_candidates @candidates
